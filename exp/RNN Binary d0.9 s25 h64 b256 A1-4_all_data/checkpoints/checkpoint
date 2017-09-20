@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ch544/Google Drive/Doc Experiment/Python/Repository Exp/AD with Reinforce Learning/exp/RNN Binary d0.9 s25 h64 b256 A1-4_all_data/checkpoints/model"
+all_model_checkpoint_paths: "/Users/ch544/Google Drive/Doc Experiment/Python/Repository Exp/AD with Reinforce Learning/exp/RNN Binary d0.9 s25 h64 b256 A1-4_all_data/checkpoints/model"

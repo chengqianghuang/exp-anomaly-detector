@@ -1,0 +1,30 @@
+setwd("Google Drive/Document Experiment/MATLAB/SVM/mysvm/ydata-labeled-time-series-anomalies-v1_0/A1Benchmark")#
+#
+library("BreakoutDetection")
+library("AnomalyDetection")
+idx = sprintf("real_%d", i)#
+file_name <- paste(idx, ".csv", sep = "")#
+data <- read.csv(file_name)#
+#
+res = AnomalyDetectionVec(data$value, max_anoms=0.01, period=200, direction='both', plot=TRUE)
+i
+i = 1
+idx = sprintf("real_%d", i)#
+file_name <- paste(idx, ".csv", sep = "")#
+data <- read.csv(file_name)#
+#
+res = AnomalyDetectionVec(data$value, max_anoms=0.01, period=200, direction='both', plot=TRUE)
+res$plot
+i
+res$plot
+AnomalyDetectionVec(data$value, max_anoms=0.001, period=200, direction='both', plot=TRUE)
+help(AnomalyDetectionVec)
+setwd("Desktop/data-1")
+setwd("Desktop")
+wd
+pw
+setwd("Google Drive/Document Experiment/MATLAB/SVM/mysvm/ydata-labeled-time-series-anomalies-v1_0/A1Benchmark")
+~/Desktop/data-1/software resource data.csv
+ch544/Desktop/data-1/software resource data.csv
+data <- read.csv(data.csv)
+pwd
